@@ -13,7 +13,7 @@
         ">
 
      <mvc:annotation-driven />  
-     <context:component-scan base-package="com.ruixue.dubbo.web.controller" />   
+     <context:component-scan base-package="com.li.dubbo.web.controller" />   
         <!-- 启动Spring MVC的注解功能，完成请求和注解POJO的映射 -->     
      <bean class="org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter">
 	 	<property name="messageConverters">

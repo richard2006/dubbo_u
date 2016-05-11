@@ -20,10 +20,10 @@
     <dubbo:registry address="zookeeper://127.0.0.1:2181" />  
     <!-- 生成远程服务代理，可以像使用本地bean一样使用demoService -->  
     <dubbo:reference id="demoService"  
-        interface="com.ruixue.dubbo.service.DemoService" />    
+        interface="com.li.dubbo.service.DemoService" />    
         
     <!-- 本地bean -->
-	<bean id="clientService" class="com.ruixue.dubbo.service.impl.ClientServiceImpl">
+	<bean id="clientService" class="com.li.dubbo.service.impl.ClientServiceImpl">
 		<property name="demoService" ref="demoService" ></property>
 	</bean>
 </beans>

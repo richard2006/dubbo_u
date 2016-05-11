@@ -221,3 +221,773 @@ Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have 
 2016-05-11 10:57:59,702 [Worker-12] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of rmr-client
 2016-05-11 10:57:59,702 [Worker-12] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for rmr-client
 2016-05-11 10:57:59,707 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:01:18,894 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:01:20,587 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:01:20,594 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-11 11:01:20,607 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:01:20,608 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:01:21,415 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:01:21,588 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:01:21,588 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-11 11:01:21,592 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:01:21,593 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:01:21,825 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:01:21,826 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-11 11:01:21,828 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:01:21,829 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:01:21,888 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:01:21,889 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-11 11:01:21,891 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:01:21,892 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:01:36,205 [Worker-16] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for rmr-client
+2016-05-11 11:01:36,225 [Worker-16] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for rmr-core
+2016-05-11 11:01:36,485 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:01:36,486 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-11 11:01:36,489 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:01:36,489 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:01:36,490 [Worker-11] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of rmr-core
+2016-05-11 11:01:36,490 [Worker-11] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for rmr-core
+2016-05-11 11:01:36,584 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:01:36,656 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:01:36,656 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-11 11:01:36,659 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:01:36,659 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:01:36,660 [Worker-11] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of rmr-client
+2016-05-11 11:01:36,660 [Worker-11] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for rmr-client
+2016-05-11 11:01:36,663 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:02:20,461 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-05-11 11:02:21,537 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ruixue:rmr-client:0.0.1 @ F:\dubbo_u\rmr-client\pom.xml.
+2016-05-11 11:02:21,541 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:02:21,721 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.dubbo.test:rmr-core:0.0.1-SNAPSHOT @ F:\dubbo_u\rmr-core\pom.xml.
+2016-05-11 11:02:21,837 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:02:22,455 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:02:22,960 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rmr-client/src/main/java
+2016-05-11 11:02:22,961 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rmr-client/src/main/resources
+2016-05-11 11:02:22,961 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rmr-client/src/test/java
+2016-05-11 11:02:22,961 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rmr-client/src/test/resources
+2016-05-11 11:02:23,805 [Worker-11] ERROR o.e.m2e.wtp.WTPProjectConfigurator - Unable to configure rmr-client
+org.eclipse.m2e.wtp.MarkedException: Unable to configure rmr-client
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:98) ~[na:na]
+	at org.eclipse.m2e.wtp.WTPProjectConfigurator.configure(WTPProjectConfigurator.java:71) ~[na:na]
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:501) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:494) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:432) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:345) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1351) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:342) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77) [org.eclipse.m2e.core.ui_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39) [org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have not been satisfied.
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modifyInternal(FacetedProject.java:363) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.mergeChangesInternal(FacetedProject.java:1181) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.access$2(FacetedProject.java:1117) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject$1.run(FacetedProject.java:324) ~[na:na]
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2241) ~[org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modify(FacetedProject.java:339) ~[na:na]
+	at org.eclipse.m2e.wtp.WebProjectConfiguratorDelegate.configure(WebProjectConfiguratorDelegate.java:133) ~[na:na]
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:94) ~[na:na]
+	... 18 common frames omitted
+2016-05-11 11:02:39,151 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:02:39,318 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rmr-core/src/main/java
+2016-05-11 11:02:39,318 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rmr-core/src/main/resources
+2016-05-11 11:02:39,319 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rmr-core/src/test/java
+2016-05-11 11:02:39,319 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rmr-core/src/test/resources
+2016-05-11 11:02:39,414 [Worker-11] ERROR o.e.m2e.wtp.WTPProjectConfigurator - Unable to configure rmr-core
+org.eclipse.m2e.wtp.MarkedException: Unable to configure rmr-core
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:98) ~[na:na]
+	at org.eclipse.m2e.wtp.WTPProjectConfigurator.configure(WTPProjectConfigurator.java:71) ~[na:na]
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:501) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:494) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:432) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:345) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1351) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:342) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77) [org.eclipse.m2e.core.ui_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39) [org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have not been satisfied.
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modifyInternal(FacetedProject.java:363) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.mergeChangesInternal(FacetedProject.java:1181) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.access$2(FacetedProject.java:1117) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject$1.run(FacetedProject.java:324) ~[na:na]
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2241) ~[org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modify(FacetedProject.java:339) ~[na:na]
+	at org.eclipse.m2e.wtp.WebProjectConfiguratorDelegate.configure(WebProjectConfiguratorDelegate.java:133) ~[na:na]
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:94) ~[na:na]
+	... 18 common frames omitted
+2016-05-11 11:02:39,451 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:02:39,700 [Worker-11] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for rmr-client
+2016-05-11 11:02:39,727 [Worker-11] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for rmr-core
+2016-05-11 11:02:39,730 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 19 sec
+2016-05-11 11:02:40,034 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:02:40,171 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:02:40,172 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-11 11:02:40,182 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:02:40,182 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:02:40,182 [Worker-0] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of rmr-core
+2016-05-11 11:02:40,183 [Worker-0] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for rmr-core
+2016-05-11 11:02:40,186 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:02:40,242 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:02:40,389 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:02:40,390 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-11 11:02:40,392 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:02:40,393 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:02:40,393 [Worker-0] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of rmr-client
+2016-05-11 11:02:40,393 [Worker-0] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for rmr-client
+2016-05-11 11:02:40,397 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:06:31,253 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:06:31,268 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-11 11:06:31,314 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:06:31,315 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:06:45,391 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:06:45,392 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-11 11:06:45,395 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:06:45,396 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:07:19,252 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\dubbo_u\rmr-core
+2016-05-11 11:07:19,253 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\apache-maven-3.3.3\conf\settings.xml clean
+2016-05-11 11:07:24,545 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:07:24,561 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-11 11:07:24,564 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:07:24,565 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:07:24,566 [Worker-13] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of rmr-core
+2016-05-11 11:07:24,566 [Worker-13] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for rmr-core
+2016-05-11 11:07:24,574 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:07:37,668 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\dubbo_u\rmr-core
+2016-05-11 11:07:37,668 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\apache-maven-3.3.3\conf\settings.xml install
+2016-05-11 11:07:48,772 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:07:48,772 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-11 11:07:48,774 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:07:48,775 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:07:58,616 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ruixue:rmr-client:0.0.1 @ F:\dubbo_u\rmr-client\pom.xml.
+2016-05-11 11:07:58,621 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:07:58,910 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:07:59,205 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:07:59,205 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:07:59,206 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:07:59,207 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:07:59,207 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of rmr-client
+2016-05-11 11:07:59,207 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for rmr-client
+2016-05-11 11:07:59,211 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:08:19,564 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\dubbo_u\rmr-client
+2016-05-11 11:08:19,564 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\apache-maven-3.3.3\conf\settings.xml clean
+2016-05-11 11:08:22,276 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:08:22,415 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:08:22,416 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-11 11:08:22,418 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:08:22,419 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:08:22,419 [Worker-16] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of rmr-client
+2016-05-11 11:08:22,419 [Worker-16] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for rmr-client
+2016-05-11 11:08:22,423 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:08:26,314 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\dubbo_u\rmr-client
+2016-05-11 11:08:26,314 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\apache-maven-3.3.3\conf\settings.xml install
+2016-05-11 11:09:08,137 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ruixue:rmr-client:0.0.1 @ F:\dubbo_u\rmr-client\pom.xml.
+2016-05-11 11:09:08,140 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:09:08,342 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:09:08,718 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:09:08,718 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:09:08,719 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:09:08,720 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:09:08,721 [Worker-9] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of rmr-client
+2016-05-11 11:09:08,721 [Worker-9] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for rmr-client
+2016-05-11 11:09:08,724 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:09:19,420 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\dubbo_u\rmr-client
+2016-05-11 11:09:19,420 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\apache-maven-3.3.3\conf\settings.xml generate-sources
+2016-05-11 11:09:34,800 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\dubbo_u\rmr-client
+2016-05-11 11:09:34,800 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\apache-maven-3.3.3\conf\settings.xml clean
+2016-05-11 11:09:37,518 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:09:37,679 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:09:37,680 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-11 11:09:37,682 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:09:37,683 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:09:37,683 [Worker-13] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of rmr-client
+2016-05-11 11:09:37,683 [Worker-13] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for rmr-client
+2016-05-11 11:09:37,688 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:09:42,020 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\dubbo_u\rmr-client
+2016-05-11 11:09:42,020 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\apache-maven-3.3.3\conf\settings.xml install
+2016-05-11 11:11:34,402 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ruixue:rmr-client:0.0.1 @ F:\dubbo_u\rmr-client\pom.xml.
+2016-05-11 11:11:34,404 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:11:34,594 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:11:35,469 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:11:35,472 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:11:35,473 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:11:35,474 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:11:35,474 [Worker-2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of rmr-client
+2016-05-11 11:11:35,474 [Worker-2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for rmr-client
+2016-05-11 11:11:35,478 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:11:36,583 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:11:36,906 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:11:36,908 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-11 11:11:36,915 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:11:36,916 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:11:55,704 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\dubbo_u\rmr-client
+2016-05-11 11:11:55,704 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\apache-maven-3.3.3\conf\settings.xml install
+2016-05-11 11:12:10,056 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:12:32,773 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:14:17,139 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ruixue:rmr-client:0.0.1 @ F:\dubbo_u\rmr-client\pom.xml.
+2016-05-11 11:14:17,141 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:14:17,319 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:14:18,213 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:14:18,307 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:14:18,310 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:14:18,312 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:14:18,313 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:14:18,336 [Worker-13] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of rmr-client
+2016-05-11 11:14:18,336 [Worker-13] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for rmr-client
+2016-05-11 11:14:18,340 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:14:18,382 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:14:19,733 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:14:19,736 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-11 11:14:19,745 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:14:19,746 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:14:30,180 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\dubbo_u\rmr-client
+2016-05-11 11:14:30,180 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\apache-maven-3.3.3\conf\settings.xml clean
+2016-05-11 11:14:32,705 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:14:32,706 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-11 11:14:32,708 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:14:32,709 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:14:32,709 [Worker-9] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of rmr-client
+2016-05-11 11:14:32,710 [Worker-9] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for rmr-client
+2016-05-11 11:14:32,719 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:14:36,749 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\dubbo_u\rmr-client
+2016-05-11 11:14:36,750 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\apache-maven-3.3.3\conf\settings.xml install
+2016-05-11 11:14:41,523 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:14:41,523 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:14:41,524 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:14:41,524 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:17:20,089 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://172.20.2.224/nexus/content/groups/public/org/apache/maven/plugins/maven-jar-plugin/maven-metadata.xml
+2016-05-11 11:17:20,125 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://172.20.2.224/nexus/content/groups/public/org/apache/maven/plugins/maven-jar-plugin/maven-metadata.xml
+2016-05-11 11:17:20,819 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.dubbo.test:rmr-core:0.0.1-SNAPSHOT @ F:\dubbo_u\rmr-core\pom.xml.
+2016-05-11 11:17:20,821 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:17:21,150 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:17:22,437 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 11:17:22,438 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:17:22,439 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 11:17:22,439 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:17:22,441 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 11:17:22,441 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:17:22,442 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of rmr-core
+2016-05-11 11:17:22,442 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for rmr-core
+2016-05-11 11:17:22,445 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 11:17:22,473 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:17:22,625 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:17:26,412 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.dubbo.test:rmr-core:0.0.1-SNAPSHOT @ F:\dubbo_u\rmr-core\pom.xml.
+2016-05-11 11:17:26,415 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:17:26,583 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:17:27,271 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:17:27,467 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 11:17:27,469 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:17:27,471 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 11:17:27,471 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:17:27,473 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 11:17:27,474 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:17:27,474 [Worker-18] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of rmr-core
+2016-05-11 11:17:27,474 [Worker-18] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for rmr-core
+2016-05-11 11:17:27,478 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 11:17:27,495 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:17:38,040 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-05-11 11:17:43,959 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\dubbo_u\rmr-core
+2016-05-11 11:17:43,959 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\apache-maven-3.3.3\conf\settings.xml package
+2016-05-11 11:18:07,202 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 11:18:07,204 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:18:07,205 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 11:18:07,206 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:18:07,207 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 11:18:07,207 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:18:30,797 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.dubbo.test:rmr-core:0.0.1-SNAPSHOT @ F:\dubbo_u\rmr-core\pom.xml.
+2016-05-11 11:18:30,800 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:18:31,886 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:18:34,832 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:18:34,934 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:18:35,137 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 11:18:35,139 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:18:35,141 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 11:18:35,141 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:18:35,142 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 11:18:35,142 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:18:35,142 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of rmr-core
+2016-05-11 11:18:35,143 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for rmr-core
+2016-05-11 11:18:35,148 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 11:18:38,844 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\dubbo_u\rmr-core
+2016-05-11 11:18:38,844 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\apache-maven-3.3.3\conf\settings.xml clean
+2016-05-11 11:18:43,786 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 11:18:43,786 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:18:43,789 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 11:18:43,791 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:18:43,792 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 11:18:43,793 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:18:43,793 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of rmr-core
+2016-05-11 11:18:43,793 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for rmr-core
+2016-05-11 11:18:43,797 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 11:18:48,426 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2016-05-11 11:18:48,499 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\dubbo_u\rmr-core
+2016-05-11 11:18:48,499 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\apache-maven-3.3.3\conf\settings.xml package
+2016-05-11 11:19:04,486 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 11:19:04,490 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:19:04,492 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 11:19:04,493 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:19:04,494 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 11:19:04,494 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:20:36,479 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ruixue:rmr-client:0.0.1 @ F:\dubbo_u\rmr-client\pom.xml.
+2016-05-11 11:20:36,482 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:20:40,092 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://172.20.2.224/nexus/content/groups/public/com/dubbo/test/rmr-core/1.0/rmr-core-1.0.pom
+2016-05-11 11:20:40,093 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.dubbo.test:rmr-core:jar:1.0 is missing, no dependency information available
+2016-05-11 11:20:40,147 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:20:40,225 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.dubbo.test:rmr-core:jar:1.0 is missing, no dependency information available
+2016-05-11 11:20:40,481 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:20:40,482 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:20:40,483 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:20:40,484 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:20:40,485 [Worker-13] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of rmr-client
+2016-05-11 11:20:40,485 [Worker-13] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for rmr-client
+2016-05-11 11:20:40,488 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:20:40,511 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:20:40,599 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.dubbo.test:rmr-core:jar:1.0 is missing, no dependency information available
+2016-05-11 11:20:40,678 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:20:40,774 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.dubbo.test:rmr-core:jar:1.0 is missing, no dependency information available
+2016-05-11 11:20:41,722 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:20:41,723 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-11 11:20:41,733 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:20:41,734 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:20:55,210 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.dubbo.test:rmr-core:0.0.1-SNAPSHOT @ F:\dubbo_u\rmr-core\pom.xml.
+2016-05-11 11:20:55,213 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:20:55,340 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:20:56,530 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 11:20:56,531 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:20:56,532 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 11:20:56,532 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:20:56,533 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 11:20:56,533 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:20:56,534 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of rmr-core
+2016-05-11 11:20:56,534 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for rmr-core
+2016-05-11 11:20:56,539 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 11:20:56,636 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:20:56,807 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:21:22,854 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://172.20.2.224/nexus/content/groups/public/com/dubbo/test/rmr-core/1.0/rmr-core-1.0-sources.jar
+2016-05-11 11:21:22,856 [Worker-8] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for com.dubbo.test:rmr-core:1.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.dubbo.test:rmr-core:jar:sources:1.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:776) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:1) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:743) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:720) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:244) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:223) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:197) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:153) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:136) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:134) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+2016-05-11 11:21:23,030 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:21:23,030 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:21:23,031 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:21:23,032 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:21:37,374 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ruixue:rmr-client:0.0.1 @ F:\dubbo_u\rmr-client\pom.xml.
+2016-05-11 11:21:37,376 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:21:37,451 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.dubbo.test:rmr-core:jar:1.0 is missing, no dependency information available
+2016-05-11 11:21:37,499 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:21:37,583 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.dubbo.test:rmr-core:jar:1.0 is missing, no dependency information available
+2016-05-11 11:21:38,151 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:21:38,267 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.dubbo.test:rmr-core:jar:1.0 is missing, no dependency information available
+2016-05-11 11:21:38,294 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:21:38,296 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:21:38,298 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:21:38,299 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:21:38,299 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of rmr-client
+2016-05-11 11:21:38,299 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for rmr-client
+2016-05-11 11:21:38,306 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:21:38,306 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:21:38,428 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.dubbo.test:rmr-core:jar:1.0 is missing, no dependency information available
+2016-05-11 11:22:09,203 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:22:09,204 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-11 11:22:09,211 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:22:09,212 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:22:19,245 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:22:19,246 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-11 11:22:19,247 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:22:19,247 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:22:22,421 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:22:22,422 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-11 11:22:22,423 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:22:22,424 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:23:02,130 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:23:02,130 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-11 11:23:02,132 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:23:02,132 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:23:16,704 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:23:16,705 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-11 11:23:16,707 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:23:16,707 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:23:29,298 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:23:29,298 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-11 11:23:29,300 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:23:29,301 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:23:54,964 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-05-11 11:23:55,069 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.dubbo.test:rmr-core:0.0.1-SNAPSHOT @ F:\dubbo_u\rmr-core\pom.xml.
+2016-05-11 11:23:55,071 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:23:55,395 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:23:55,587 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rmr-core/src/main/java
+2016-05-11 11:23:55,587 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /rmr-core/src/main/java overlaps with sources folder /rmr-core/src/main/java
+2016-05-11 11:23:55,592 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rmr-core/src/test/java
+2016-05-11 11:23:55,592 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rmr-core/src/test/resources
+2016-05-11 11:23:55,608 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:23:55,702 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:23:56,333 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:23:56,722 [Worker-18] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for rmr-core
+2016-05-11 11:23:56,726 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2016-05-11 11:23:57,170 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 11:23:57,172 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:23:57,173 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 11:23:57,173 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:23:57,174 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 11:23:57,174 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:23:57,175 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of rmr-core
+2016-05-11 11:23:57,175 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for rmr-core
+2016-05-11 11:23:57,178 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 11:24:06,088 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-05-11 11:24:06,135 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ruixue:rmr-client:0.0.1 @ F:\dubbo_u\rmr-client\pom.xml.
+2016-05-11 11:24:06,138 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:24:06,269 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.dubbo.test:rmr-core:jar:1.0 is missing, no dependency information available
+2016-05-11 11:24:06,359 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:24:06,451 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.dubbo.test:rmr-core:jar:1.0 is missing, no dependency information available
+2016-05-11 11:24:06,572 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rmr-client/src/main/java
+2016-05-11 11:24:06,572 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rmr-client/src/main/resources
+2016-05-11 11:24:06,573 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rmr-client/src/test/java
+2016-05-11 11:24:06,573 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rmr-client/src/test/resources
+2016-05-11 11:24:06,612 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:24:06,719 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.dubbo.test:rmr-core:jar:1.0 is missing, no dependency information available
+2016-05-11 11:24:06,739 [Worker-13] ERROR o.e.m2e.wtp.WTPProjectConfigurator - Unable to configure rmr-client
+org.eclipse.m2e.wtp.MarkedException: Unable to configure rmr-client
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:98) ~[na:na]
+	at org.eclipse.m2e.wtp.WTPProjectConfigurator.configure(WTPProjectConfigurator.java:71) ~[na:na]
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:501) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:494) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:432) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:345) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1351) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:342) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77) [org.eclipse.m2e.core.ui_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39) [org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have not been satisfied.
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modifyInternal(FacetedProject.java:363) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.mergeChangesInternal(FacetedProject.java:1181) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.access$2(FacetedProject.java:1117) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject$1.run(FacetedProject.java:324) ~[na:na]
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2241) ~[org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modify(FacetedProject.java:339) ~[na:na]
+	at org.eclipse.m2e.wtp.WebProjectConfiguratorDelegate.configure(WebProjectConfiguratorDelegate.java:133) ~[na:na]
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:94) ~[na:na]
+	... 18 common frames omitted
+2016-05-11 11:24:06,756 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:24:06,850 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.dubbo.test:rmr-core:jar:1.0 is missing, no dependency information available
+2016-05-11 11:24:06,884 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:24:06,995 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.dubbo.test:rmr-core:jar:1.0 is missing, no dependency information available
+2016-05-11 11:24:07,128 [Worker-13] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for rmr-client
+2016-05-11 11:24:07,131 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2016-05-11 11:24:07,334 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:24:07,335 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-11 11:24:07,340 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:24:07,340 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:24:07,341 [Worker-13] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of rmr-client
+2016-05-11 11:24:07,341 [Worker-13] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for rmr-client
+2016-05-11 11:24:07,345 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:24:28,624 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:24:28,625 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-11 11:24:28,628 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:24:28,629 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:24:33,030 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:24:33,031 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-11 11:24:33,034 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:24:33,034 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:24:40,971 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-05-11 11:24:41,972 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ruixue:rmr-client:0.0.1 @ F:\dubbo_u\rmr-client\pom.xml.
+2016-05-11 11:24:41,974 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:24:42,162 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.dubbo.test:rmr-core:jar:1.0 is missing, no dependency information available
+2016-05-11 11:24:42,212 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:24:42,282 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.dubbo.test:rmr-core:jar:1.0 is missing, no dependency information available
+2016-05-11 11:24:42,945 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:24:43,027 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.dubbo.test:rmr-core:jar:1.0 is missing, no dependency information available
+2016-05-11 11:24:43,075 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:24:43,163 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.dubbo.test:rmr-core:jar:1.0 is missing, no dependency information available
+2016-05-11 11:24:43,239 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rmr-client/src/main/java
+2016-05-11 11:24:43,239 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rmr-client/src/main/resources
+2016-05-11 11:24:43,240 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rmr-client/src/test/java
+2016-05-11 11:24:43,240 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rmr-client/src/test/resources
+2016-05-11 11:24:43,315 [Worker-19] ERROR o.e.m2e.wtp.WTPProjectConfigurator - Unable to configure rmr-client
+org.eclipse.m2e.wtp.MarkedException: Unable to configure rmr-client
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:98) ~[na:na]
+	at org.eclipse.m2e.wtp.WTPProjectConfigurator.configure(WTPProjectConfigurator.java:71) ~[na:na]
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:501) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:494) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:432) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:345) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1351) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:342) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77) [org.eclipse.m2e.core.ui_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39) [org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have not been satisfied.
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modifyInternal(FacetedProject.java:363) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.mergeChangesInternal(FacetedProject.java:1181) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.access$2(FacetedProject.java:1117) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject$1.run(FacetedProject.java:324) ~[na:na]
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2241) ~[org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modify(FacetedProject.java:339) ~[na:na]
+	at org.eclipse.m2e.wtp.WebProjectConfiguratorDelegate.configure(WebProjectConfiguratorDelegate.java:133) ~[na:na]
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:94) ~[na:na]
+	... 18 common frames omitted
+2016-05-11 11:24:43,457 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:24:43,556 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.dubbo.test:rmr-core:jar:1.0 is missing, no dependency information available
+2016-05-11 11:24:43,652 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for rmr-client
+2016-05-11 11:24:43,654 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2016-05-11 11:24:43,816 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:24:43,817 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-11 11:24:43,827 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:24:43,827 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:24:43,828 [Worker-11] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of rmr-client
+2016-05-11 11:24:43,828 [Worker-11] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for rmr-client
+2016-05-11 11:24:43,832 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:25:47,476 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:25:47,479 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-11 11:25:47,482 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:25:47,484 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:26:09,484 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:26:09,484 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-11 11:26:09,487 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:26:09,487 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:26:32,890 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:26:32,890 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-11 11:26:32,893 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:26:32,893 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:26:43,983 [Worker-24] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-05-11 11:26:44,380 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ruixue:rmr-client:0.0.1 @ F:\dubbo_u\rmr-client\pom.xml.
+2016-05-11 11:26:44,383 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:26:44,474 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.dubbo.test:rmr-core:jar:1.0 is missing, no dependency information available
+2016-05-11 11:26:44,526 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:26:44,643 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.dubbo.test:rmr-core:jar:1.0 is missing, no dependency information available
+2016-05-11 11:26:45,102 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:26:45,164 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rmr-client/src/main/java
+2016-05-11 11:26:45,165 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rmr-client/src/main/resources
+2016-05-11 11:26:45,165 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rmr-client/src/test/java
+2016-05-11 11:26:45,166 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rmr-client/src/test/resources
+2016-05-11 11:26:45,211 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.dubbo.test:rmr-core:jar:1.0 is missing, no dependency information available
+2016-05-11 11:26:45,240 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:26:45,300 [Worker-24] ERROR o.e.m2e.wtp.WTPProjectConfigurator - Unable to configure rmr-client
+org.eclipse.m2e.wtp.MarkedException: Unable to configure rmr-client
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:98) ~[na:na]
+	at org.eclipse.m2e.wtp.WTPProjectConfigurator.configure(WTPProjectConfigurator.java:71) ~[na:na]
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:501) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:494) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:432) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:345) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1351) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:342) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77) [org.eclipse.m2e.core.ui_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39) [org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have not been satisfied.
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modifyInternal(FacetedProject.java:363) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.mergeChangesInternal(FacetedProject.java:1181) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.access$2(FacetedProject.java:1117) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject$1.run(FacetedProject.java:324) ~[na:na]
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2241) ~[org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modify(FacetedProject.java:339) ~[na:na]
+	at org.eclipse.m2e.wtp.WebProjectConfiguratorDelegate.configure(WebProjectConfiguratorDelegate.java:133) ~[na:na]
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:94) ~[na:na]
+	... 18 common frames omitted
+2016-05-11 11:26:45,334 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.dubbo.test:rmr-core:jar:1.0 is missing, no dependency information available
+2016-05-11 11:26:45,488 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 11:26:45,568 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.dubbo.test:rmr-core:jar:1.0 is missing, no dependency information available
+2016-05-11 11:26:45,631 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for rmr-client
+2016-05-11 11:26:45,633 [Worker-24] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2016-05-11 11:26:45,824 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:26:45,825 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-11 11:26:45,837 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:26:45,838 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:26:45,838 [Worker-20] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of rmr-client
+2016-05-11 11:26:45,838 [Worker-20] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for rmr-client
+2016-05-11 11:26:45,843 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:27:00,977 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:27:00,979 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-11 11:27:00,982 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:27:00,982 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:27:06,877 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:27:06,877 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-11 11:27:06,879 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:27:06,880 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:30:13,637 [Worker-21] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for rmr-client
+2016-05-11 11:30:13,653 [Worker-21] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for rmr-core
+2016-05-11 11:30:14,000 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:30:14,001 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-11 11:30:14,004 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:30:14,004 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:30:14,004 [Worker-2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of rmr-client
+2016-05-11 11:30:14,004 [Worker-2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for rmr-client
+2016-05-11 11:30:14,008 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 11:30:14,668 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 11:30:14,670 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:30:14,671 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 11:30:14,671 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:30:14,673 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 11:30:14,673 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 11:30:14,673 [Worker-2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of rmr-core
+2016-05-11 11:30:14,673 [Worker-2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for rmr-core
+2016-05-11 11:30:14,678 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 14:17:24,793 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 14:19:56,689 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 14:19:56,694 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 14:19:56,696 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 14:19:56,697 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 14:19:56,698 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 14:19:56,698 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 14:21:42,608 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 14:21:42,666 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 14:21:42,670 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 14:21:42,672 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 14:21:42,674 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 14:21:42,674 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 14:23:51,284 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 14:23:51,292 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 14:23:51,293 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 14:23:51,294 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 14:23:51,296 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 14:23:51,296 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 14:24:07,765 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 14:24:07,774 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 14:24:07,775 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 14:24:07,776 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 14:24:07,778 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 14:24:07,778 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 14:24:40,098 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 14:24:40,103 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 14:24:40,104 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 14:24:40,105 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 14:24:40,106 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 14:24:40,107 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 14:26:50,262 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 14:26:50,263 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 14:26:50,264 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 14:26:50,264 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 14:26:50,266 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 14:26:50,266 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 14:47:18,733 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 14:47:18,839 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.dubbo.test:rmr-core:jar:1.0 is missing, no dependency information available
+2016-05-11 14:47:18,869 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 14:47:18,869 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-11 14:47:18,876 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 14:47:18,876 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 14:47:32,505 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 14:47:32,506 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-11 14:47:32,508 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 14:47:32,509 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 14:49:28,268 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 14:49:28,269 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-11 14:49:28,271 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 14:49:28,271 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 14:49:43,027 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 14:49:43,028 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-11 14:49:43,029 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 14:49:43,030 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 14:49:48,263 [Worker-23] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for rmr-client
+2016-05-11 14:49:48,282 [Worker-23] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for rmr-core
+2016-05-11 14:49:48,470 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 14:49:48,470 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-11 14:49:48,473 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 14:49:48,473 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 14:49:48,473 [Worker-21] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of rmr-client
+2016-05-11 14:49:48,474 [Worker-21] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for rmr-client
+2016-05-11 14:49:48,531 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 14:49:48,627 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 14:49:48,628 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 14:49:48,629 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 14:49:48,629 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 14:49:48,630 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 14:49:48,630 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 14:49:48,630 [Worker-21] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of rmr-core
+2016-05-11 14:49:48,630 [Worker-21] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for rmr-core
+2016-05-11 14:49:48,634 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-11 14:53:49,586 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\dubbo_u\rmr-client
+2016-05-11 14:53:49,587 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\apache-maven-3.3.3\conf\settings.xml clean
+2016-05-11 14:53:51,674 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 14:53:51,675 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-11 14:53:51,677 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 14:53:51,677 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 14:53:51,677 [Worker-21] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of rmr-client
+2016-05-11 14:53:51,677 [Worker-21] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for rmr-client
+2016-05-11 14:53:51,683 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 14:53:55,219 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\dubbo_u\rmr-client
+2016-05-11 14:53:55,219 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\apache-maven-3.3.3\conf\settings.xml install
+2016-05-11 14:54:01,006 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 14:54:01,008 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-11 14:54:01,010 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 14:54:01,010 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 14:54:53,543 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 14:54:53,624 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.dubbo.test:rmr-core:jar:1.0 is missing, no dependency information available
+2016-05-11 14:54:53,648 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 14:54:53,759 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.dubbo.test:rmr-core:jar:1.0 is missing, no dependency information available
+2016-05-11 14:54:54,027 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ruixue:rmr-client:0.0.1 @ F:\dubbo_u\rmr-client\pom.xml.
+2016-05-11 14:54:54,030 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 14:54:54,101 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.dubbo.test:rmr-core:jar:1.0 is missing, no dependency information available
+2016-05-11 14:54:54,157 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 14:54:54,229 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.dubbo.test:rmr-core:jar:1.0 is missing, no dependency information available
+2016-05-11 14:54:54,423 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 14:54:54,423 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 14:54:54,424 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 14:54:54,425 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-11 14:54:54,425 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of rmr-client
+2016-05-11 14:54:54,425 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for rmr-client
+2016-05-11 14:54:54,427 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 14:54:55,688 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:dubbo:jar:2.5.4 is missing, no dependency information available
+2016-05-11 14:54:55,784 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.dubbo.test:rmr-core:jar:1.0 is missing, no dependency information available
+2016-05-11 14:54:55,806 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 14:54:55,807 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-11 14:54:55,809 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-11 14:54:55,810 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

@@ -1,0 +1,42 @@
+#
+# Log4J Settings for log4j 1.2.x (via jakarta-commons-logging)
+#
+# The five logging levels used by Log are (in order):
+#
+#   1. DEBUG (the least serious)
+#   2. INFO
+#   3. WARN
+#   4. ERROR
+#   5. FATAL (the most serious)
+
+
+# Set root logger level to WARN and append to stdout
+log4j.rootLogger=INFO, stdout, DUBBO
+
+### \u8f93\u51fa\u5230\u63a7\u5236\u53f0 ###
+log4j.appender.stdout=org.apache.log4j.ConsoleAppender
+log4j.appender.stdout.Target=System.out
+log4j.appender.stdout.Threshold=INFO
+log4j.appender.stdout.layout=org.apache.log4j.PatternLayout
+log4j.appender.stdout.layout.ConversionPattern=%d{yyyy-MM-dd HH:mm:ss,SSS} %p [%c] - %m%n
+
+### \u8f93\u51fa\u5230\u65e5\u5fd7\u6587\u4ef6 ###
+### ROP \u65e5\u5fd7\u683c\u5f0f\u53ca\u7f13\u5b58\u914d\u7f6e ###
+log4j.appender.ROP=org.apache.log4j.RollingFileAppender
+log4j.appender.ROP.File=logs/rop_log.log
+log4j.appender.ROP.Append=true
+log4j.appender.ROP.Threshold=INFO
+log4j.appender.ROP.layout=org.apache.log4j.PatternLayout
+log4j.appender.ROP.layout.ConversionPattern=%m
+log4j.appender.ROP.MaxFileSize=10MB
+log4j.appender.ROP.MaxBackupIndex=100
+
+# OpenSymphony Stuff
+log4j.logger.com.opensymphony=OFF
+log4j.logger.org.apache.struts2=OFF
+
+# Spring Stuff
+log4j.logger.org.springframework=ON
+
+# c3p0 Stuff
+log4j.logger.com.mchange=OFF
